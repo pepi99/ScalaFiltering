@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="petar-HP-ZBook-Studio-G5" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.139" timestamp="2019-09-30T11:31:43">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property name="java.vm.version" value="11.0.2+9-LTS"/>
+    <property 
+    name="sun.boot.library.path" value="/home/petar/Desktop/jdk-11.0.2_linux-x64_bin/jdk-11.0.2/lib">
+</property>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property name="user.dir" value="/home/petar/Documents/y2/BigData/fp"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.2+9-LTS"/>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment">
+</property>
+    <property name="basedir" value="/home/petar/Documents/y2/BigData/fp"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value=" "/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property 
+    name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib">
+</property>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="5.0.0-29-generic"/>
+    <property name="user.home" value="/home/petar"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="petar"/>
+    <property 
+    name="java.class.path" value="/home/petar/Documents/y2/BigData/fp/target/test-classes:/home/petar/Documents/y2/BigData/fp/target/classes:/home/petar/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar:/home/petar/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/petar/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/petar/.m2/repository/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar:/home/petar/.m2/repository/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar:/home/petar/.m2/repository/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.jar:/home/petar/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar:/home/petar/.m2/repository/org/specs2/specs2-core_2.12/4.2.0/specs2-core_2.12-4.2.0.jar:/home/petar/.m2/repository/org/specs2/specs2-matcher_2.12/4.2.0/specs2-matcher_2.12-4.2.0.jar:/home/petar/.m2/repository/org/specs2/specs2-common_2.12/4.2.0/specs2-common_2.12-4.2.0.jar:/home/petar/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0.jar:/home/petar/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar:/home/petar/.m2/repository/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/petar/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0.jar:/home/petar/.m2/repository/org/json4s/json4s-native_2.12/3.6.6/json4s-native_2.12-3.6.6.jar:/home/petar/.m2/repository/org/json4s/json4s-core_2.12/3.6.6/json4s-core_2.12-3.6.6.jar:/home/petar/.m2/repository/org/json4s/json4s-ast_2.12/3.6.6/json4s-ast_2.12-3.6.6.jar:/home/petar/.m2/repository/org/json4s/json4s-scalap_2.12/3.6.6/json4s-scalap_2.12-3.6.6.jar:/home/petar/.m2/repository/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar:/home/petar/.m2/repository/org/json4s/json4s-ext_2.12/3.6.6/json4s-ext_2.12-3.6.6.jar:/home/petar/.m2/repository/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar:/home/petar/.m2/repository/org/joda/joda-convert/2.2.0/joda-convert-2.2.0.jar">
+</property>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R /home/petar/Documents/y2/BigData/fp/target/classes /home/petar/Documents/y2/BigData/fp/target/test-classes -o -f /home/petar/Documents/y2/BigData/fp/target/surefire-reports/TestSuiteReport.txt -u /home/petar/Documents/y2/BigData/fp/target/surefire-reports/.">
+</property>
+    <property 
+    name="java.home" value="/home/petar/Desktop/jdk-11.0.2_linux-x64_bin/jdk-11.0.2">
+</property>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2019-01-15"/>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/">
+</property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
